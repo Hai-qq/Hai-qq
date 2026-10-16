@@ -39,11 +39,11 @@ Master's student in energy and power engineering at Shanghai Jiao Tong Universit
 #### 最近更新 · Recently updated
 
 <!-- recent:start -->
+- **[Interlude](https://github.com/Hai-qq/Interlude)** · 2026-10-16 — [fix(deps): refresh vulnerable build-chain packages and document remai…](https://github.com/Hai-qq/Interlude/commit/16874f0ba49a7f77e21cbf2ddf3b368363a4ee22)
+- **[WalkerCmd](https://github.com/Hai-qq/WalkerCmd)** · 2026-10-16 — [docs: add MIT license and neutral limitations heading](https://github.com/Hai-qq/WalkerCmd/commit/9786e06f7a12d6b1d2ad5283d3f6435af111b34a)
 - **[humanist-frontend](https://github.com/Hai-qq/humanist-frontend)** · 2026-10-16 — [Redesign the editorial-warm and precise-light palettes](https://github.com/Hai-qq/humanist-frontend/commit/0dcfca8948cd01a6642dd978c2b45459567b9bb2)
 - **[SchedNav](https://github.com/Hai-qq/SchedNav)** · 2026-10-15 — [Rework the project homepage and add contributor docs, quickstart and …](https://github.com/Hai-qq/SchedNav/commit/3c08ad91db43327eb5a1676a4d6ab3f98a45553c)
 - **[marginalia-worksheets](https://github.com/Hai-qq/marginalia-worksheets)** · 2026-10-14 — [Sample: teacher name Shelly](https://github.com/Hai-qq/marginalia-worksheets/commit/6896d2dd56afe4bb5a5ebb103d1cdbdaeaa3287f)
-- **[tb3-energy-centre-dispatch](https://github.com/Hai-qq/tb3-energy-centre-dispatch)** · 2026-10-11 — [Drop the adversarial-revision bullet from Limitations and its pointer…](https://github.com/Hai-qq/tb3-energy-centre-dispatch/commit/1f9237885c398c91bc0b5a49a776ca6fb234112c)
-- **[WalkerCmd](https://github.com/Hai-qq/WalkerCmd)** · 2026-10-04 — [WalkerCmd: biped velocity-tracking PPO with domain randomization and …](https://github.com/Hai-qq/WalkerCmd/commit/dbd54a844e2666b854baf08f0b0687c426fbfa36)
 <!-- recent:end -->
 
 <sub>安装方式、支持范围和验证证据见各项目 README；问题和建议欢迎开 Issue。<br>
