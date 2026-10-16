@@ -9,3 +9,5 @@
 - schednav.svg：任务队列与有界调度路径。
 
 四个展示标识与对应仓库 docs/assets/brand/mark.svg、网站 public/brand/*.svg 保持逐字节一致。README 正文保持可选择、可访问的真实文字，GitHub 的界面字体沿用平台原生设置。
+
+主页 README 目前只引用 yee-banner.svg；四个项目标识保留在这里，继续与各仓库和网站同步。
