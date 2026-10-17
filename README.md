@@ -39,7 +39,7 @@ Master's student in energy and power engineering at Shanghai Jiao Tong Universit
 #### 最近更新 · Recently updated
 
 <!-- recent:start -->
-- **[Interlude](https://github.com/Hai-qq/Interlude)** · 2026-10-16 — [fix(deps): refresh vulnerable build-chain packages and document remai…](https://github.com/Hai-qq/Interlude/commit/16874f0ba49a7f77e21cbf2ddf3b368363a4ee22)
+- **[Interlude](https://github.com/Hai-qq/Interlude)** · 2026-10-16 — [docs: refresh third-party notices after dependency updates](https://github.com/Hai-qq/Interlude/commit/8a2cfb7be4d04af4aac1cba1a27f48f9e3956e27)
 - **[WalkerCmd](https://github.com/Hai-qq/WalkerCmd)** · 2026-10-16 — [docs: add MIT license and neutral limitations heading](https://github.com/Hai-qq/WalkerCmd/commit/9786e06f7a12d6b1d2ad5283d3f6435af111b34a)
 - **[humanist-frontend](https://github.com/Hai-qq/humanist-frontend)** · 2026-10-16 — [Redesign the editorial-warm and precise-light palettes](https://github.com/Hai-qq/humanist-frontend/commit/0dcfca8948cd01a6642dd978c2b45459567b9bb2)
 - **[SchedNav](https://github.com/Hai-qq/SchedNav)** · 2026-10-15 — [Rework the project homepage and add contributor docs, quickstart and …](https://github.com/Hai-qq/SchedNav/commit/3c08ad91db43327eb5a1676a4d6ab3f98a45553c)
