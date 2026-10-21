@@ -39,11 +39,11 @@ Master's student in energy and power engineering at Shanghai Jiao Tong Universit
 #### 最近更新 · Recently updated
 
 <!-- recent:start -->
+- **[tb3-energy-centre-dispatch](https://github.com/Hai-qq/tb3-energy-centre-dispatch)** · 2026-10-20 — [Deliver v19: the hardened task, its checks and every trial (#2)](https://github.com/Hai-qq/tb3-energy-centre-dispatch/commit/eadd27bceff7070d749167468444cbf303ff48c6)
 - **[Interlude](https://github.com/Hai-qq/Interlude)** · 2026-10-16 — [docs: refresh third-party notices after dependency updates](https://github.com/Hai-qq/Interlude/commit/8a2cfb7be4d04af4aac1cba1a27f48f9e3956e27)
 - **[WalkerCmd](https://github.com/Hai-qq/WalkerCmd)** · 2026-10-16 — [docs: add MIT license and neutral limitations heading](https://github.com/Hai-qq/WalkerCmd/commit/9786e06f7a12d6b1d2ad5283d3f6435af111b34a)
 - **[humanist-frontend](https://github.com/Hai-qq/humanist-frontend)** · 2026-10-16 — [Redesign the editorial-warm and precise-light palettes](https://github.com/Hai-qq/humanist-frontend/commit/0dcfca8948cd01a6642dd978c2b45459567b9bb2)
 - **[SchedNav](https://github.com/Hai-qq/SchedNav)** · 2026-10-15 — [Rework the project homepage and add contributor docs, quickstart and …](https://github.com/Hai-qq/SchedNav/commit/3c08ad91db43327eb5a1676a4d6ab3f98a45553c)
-- **[marginalia-worksheets](https://github.com/Hai-qq/marginalia-worksheets)** · 2026-10-14 — [Sample: teacher name Shelly](https://github.com/Hai-qq/marginalia-worksheets/commit/6896d2dd56afe4bb5a5ebb103d1cdbdaeaa3287f)
 <!-- recent:end -->
 
 <sub>安装方式、支持范围和验证证据见各项目 README；问题和建议欢迎开 Issue。<br>
