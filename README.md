@@ -39,10 +39,10 @@ Master's student in energy and power engineering at Shanghai Jiao Tong Universit
 #### 最近更新 · Recently updated
 
 <!-- recent:start -->
+- **[Interlude](https://github.com/Hai-qq/Interlude)** · 2026-10-23 — [build: leave npm's hidden lockfile out of app.asar](https://github.com/Hai-qq/Interlude/commit/26c26147d9d7e5857288b5e625c16d16dbc625f9)
+- **[humanist-frontend](https://github.com/Hai-qq/humanist-frontend)** · 2026-10-23 — [首页重写、一行安装与 reports/ 精简 (#4)](https://github.com/Hai-qq/humanist-frontend/commit/1a584b1d849bde11792a06f13a92e3bc177d39de)
 - **[tb3-energy-centre-dispatch](https://github.com/Hai-qq/tb3-energy-centre-dispatch)** · 2026-10-21 — [Docs: HARDENING's pointer to tasks/ and README's results/ row brought…](https://github.com/Hai-qq/tb3-energy-centre-dispatch/commit/15fc800a5c48e8e348db0ce0337ec7facb629b9f)
-- **[Interlude](https://github.com/Hai-qq/Interlude)** · 2026-10-16 — [docs: refresh third-party notices after dependency updates](https://github.com/Hai-qq/Interlude/commit/8a2cfb7be4d04af4aac1cba1a27f48f9e3956e27)
 - **[WalkerCmd](https://github.com/Hai-qq/WalkerCmd)** · 2026-10-16 — [docs: add MIT license and neutral limitations heading](https://github.com/Hai-qq/WalkerCmd/commit/9786e06f7a12d6b1d2ad5283d3f6435af111b34a)
-- **[humanist-frontend](https://github.com/Hai-qq/humanist-frontend)** · 2026-10-16 — [Redesign the editorial-warm and precise-light palettes](https://github.com/Hai-qq/humanist-frontend/commit/0dcfca8948cd01a6642dd978c2b45459567b9bb2)
 - **[SchedNav](https://github.com/Hai-qq/SchedNav)** · 2026-10-15 — [Rework the project homepage and add contributor docs, quickstart and …](https://github.com/Hai-qq/SchedNav/commit/3c08ad91db43327eb5a1676a4d6ab3f98a45553c)
 <!-- recent:end -->
 
