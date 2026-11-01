@@ -5,11 +5,16 @@
 **研究能源系统。构建工具，记录 AI。**<br>
 **Researching energy systems. Building tools. Documenting AI.**
 
-上海交通大学能源动力硕士在读（2028 届），目前在施耐德电气做 AI 软件开发实习。主线是物理约束下的智能决策：用离线强化学习调度储能；也把 Agent 和 LLM 训练里容易出错的环节做成可复核的工具。平时在抖音、小红书和 B 站讲 AI 产品与科技科普。
+上海交通大学能源动力硕士在读（2028 届）。主线是物理约束下的智能决策：用离线强化学习调度储能；也把 Agent 和 LLM 训练里容易出错的环节做成可复核的工具。平时在抖音、小红书和 B 站讲 AI 产品与科技科普。
 
-Master's student in energy and power engineering at Shanghai Jiao Tong University (class of 2028), currently an AI software development intern at Schneider Electric. My research is decision-making under physical constraints, mainly offline RL for energy-storage dispatch. I also build checkable tools for the parts of agent and LLM training that tend to go wrong, and make videos explaining AI products and science.
+Master's student in energy and power engineering at Shanghai Jiao Tong University (class of 2028). My research is decision-making under physical constraints, mainly offline RL for energy-storage dispatch. I also build checkable tools for the parts of agent and LLM training that tend to go wrong, and make videos explaining AI products and science.
 
 [个人网站 Website](https://haiyi-yee.pages.dev) · [抖音 Douyin](https://www.douyin.com/user/MS4wLjABAAAAyBOI3mpE3w3bYaR08iZ3EhXNvZwm4JpVQpjU6ZFzL1hr9hwgniHzEn5gk7eEdmy-) · [小红书 Xiaohongshu](https://www.xiaohongshu.com/user/profile/63798f12000000001f01e4e3) · [B 站 Bilibili](https://space.bilibili.com/30639604) · [X](https://x.com/haiyi11011) · [Email](mailto:gqing2297@gmail.com)
+
+#### 荣誉 · Honors
+
+- **ICENSS 2026 · Best Paper Award** — 《Physics-Informed Offline Reinforcement Learning for Carnot-Battery Dispatch》，第一作者。<br>
+  <sub>First author of “Physics-Informed Offline Reinforcement Learning for Carnot-Battery Dispatch”.</sub>
 
 #### Agent 与 LLM 工程 · Agent & LLM engineering
 
