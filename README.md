@@ -11,11 +11,6 @@ Master's student in energy and power engineering at Shanghai Jiao Tong Universit
 
 [个人网站 Website](https://haiyi-yee.pages.dev) · [抖音 Douyin](https://www.douyin.com/user/MS4wLjABAAAAyBOI3mpE3w3bYaR08iZ3EhXNvZwm4JpVQpjU6ZFzL1hr9hwgniHzEn5gk7eEdmy-) · [小红书 Xiaohongshu](https://www.xiaohongshu.com/user/profile/63798f12000000001f01e4e3) · [B 站 Bilibili](https://space.bilibili.com/30639604) · [X](https://x.com/haiyi11011) · [Email](mailto:gqing2297@gmail.com)
 
-#### 荣誉 · Honors
-
-- **ICENSS 2026 · Best Paper Award** — 《Physics-Informed Offline Reinforcement Learning for Carnot-Battery Dispatch》，第一作者。<br>
-  <sub>First author of “Physics-Informed Offline Reinforcement Learning for Carnot-Battery Dispatch”.</sub>
-
 #### Agent 与 LLM 工程 · Agent & LLM engineering
 
 - **[SchedNav](https://github.com/Hai-qq/SchedNav)** — 让 GPU 调度建议经得起仿真与审计：Agent 只提有边界的策略，由确定性仿真执行、硬 SLO 审核。目前是研究阶段，未接真实集群。<br>
@@ -50,6 +45,11 @@ Master's student in energy and power engineering at Shanghai Jiao Tong Universit
 - **[tb3-energy-centre-dispatch](https://github.com/Hai-qq/tb3-energy-centre-dispatch)** · 2026-10-21 — [Docs: HARDENING's pointer to tasks/ and README's results/ row brought…](https://github.com/Hai-qq/tb3-energy-centre-dispatch/commit/15fc800a5c48e8e348db0ce0337ec7facb629b9f)
 - **[WalkerCmd](https://github.com/Hai-qq/WalkerCmd)** · 2026-10-16 — [docs: add MIT license and neutral limitations heading](https://github.com/Hai-qq/WalkerCmd/commit/9786e06f7a12d6b1d2ad5283d3f6435af111b34a)
 <!-- recent:end -->
+
+#### 荣誉 · Honors
+
+- **ICENSS 2026 · Best Paper Award** — 《Physics-Informed Offline Reinforcement Learning for Carnot-Battery Dispatch》，第一作者。<br>
+  <sub>First author of “Physics-Informed Offline Reinforcement Learning for Carnot-Battery Dispatch”.</sub>
 
 <sub>安装方式、支持范围和验证证据见各项目 README；问题和建议欢迎开 Issue。<br>
 Setup, scope and evidence are in each project's README. Issues and suggestions are welcome.</sub>
